@@ -1,0 +1,8 @@
+~*.xlsx
+*~lock*
+.DS_Store
+*old/
+*data/
+*.log
+__pycache__/
+.ipynb_checkpoints/
